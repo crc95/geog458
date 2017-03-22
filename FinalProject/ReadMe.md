@@ -39,4 +39,3 @@ Sources: Include all links here for data collected for maps
 2. https://www.google.com/maps/d/u/0/viewer?mid=1OqyaoLbD4Q_EgHq5p0N5J6uB6_E&hl=en_US&ll=19.780093911240023%2C-134.99962449999998&z=2
 
 
-note: some files are missing, waiting on Alex to submit them (12:13AM 3/13/17)
